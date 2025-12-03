@@ -1,0 +1,22 @@
+app:
+  name: "AI Shopping Agent"
+  version: "2.0.0"
+
+crawler:
+  max_pages: 3
+  headless: false
+  request_interval: 2
+
+llm:
+  model: "gpt-3.5-turbo"
+  temperature: 0.7
+
+filter:
+  top_n: 5
+  fallback_strategy: "sales" # sales, price_asc, price_desc
+
+platforms:
+  - name: "taobao"
+    enabled: true
+  - name: "zhihu"
+    enabled: true

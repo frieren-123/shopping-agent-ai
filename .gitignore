@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/
+browser_data*/
+debug_*
+*.log
+*.png
+*.html
