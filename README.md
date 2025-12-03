@@ -24,7 +24,8 @@
 
 ## 📸 界面预览
 
-*(此处建议上传一张运行时的截图，例如 Streamlit 的搜索结果页)*
+*<img width="1848" height="892" alt="image" src="https://github.com/user-attachments/assets/a7a3806b-7f63-4253-b282-4a3d64f3cee5" />
+*
 
 ## 🛠️ 快速开始
 
